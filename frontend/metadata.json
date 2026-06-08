@@ -1,0 +1,7 @@
+{
+  "name": "FESTiVillan",
+  "description": "The ultimate music festival cheat code app. Real-time survival, secret sets, and emergency tools for the active festival-goer.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
